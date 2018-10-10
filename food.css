@@ -1,0 +1,70 @@
+body{
+    background: url(./assets/towel.jpg) no-repeat;
+    background-size: cover;
+    margin:0 auto;
+    height: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+h1{
+    color:black;
+    text-align: center;
+    font-size: 60px;
+    
+
+}
+h2{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    
+
+}
+#formId{
+    text-align: center;
+    overflow: auto;
+}
+
+.result0 {
+    float: left;
+    
+}
+.result1 {
+    float: right;
+}
+
+.results {
+    margin-right: 20%;
+    margin-left: 20%;
+    height: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-style: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+#submitButton {
+   padding: 20px 55px;
+   font-size: 20px;
+   font-style: bold;
+   background-color: darkred;
+
+}
+
+#search{
+    padding: 15px 30px;
+    font-size: 20px;
+
+}
+article {
+    width: 300px;
+
+}
