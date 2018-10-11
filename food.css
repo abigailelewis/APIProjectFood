@@ -68,3 +68,12 @@ article {
     width: 300px;
 
 }
+footer {
+   
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
